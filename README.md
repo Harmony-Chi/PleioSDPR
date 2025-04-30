@@ -74,4 +74,4 @@ There are two output files corresponding to the adjusted effect sizes for trait1
 
 ## Citation
 
-# PleioSDPR
+
