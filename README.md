@@ -25,11 +25,11 @@ conda install plinkio
 
 ### Reference LD
 
-The reference LD matrices are based on 1000 Genome Hapmap3 SNPs and can be downloaded from [link](https://yaleedu-my.sharepoint.com/:f:/g/personal/chi_zhang_cz354_yale_edu/EuB9GFTYinFPkF0pWSie8ZABom82mlfSvyspb_ZITNSgbA?e=Umkbgk)
+The reference LD matrices are based on 1000 Genome Hapmap3 SNPs and can be downloaded from [li nk](https://yaleedu-my.sharepoint.com/:f:/g/personal/chi_zhang_cz354_yale_edu/EuB9GFTYinFPkF0pWSie8ZABom82mlfSvyspb_ZITNSgbA?e=Umkbgk)
 
 ### Summary Statistics 
 
-Same as SDPR, the summary statistics should have at least following columns with the same name, where SNP is the marker name, A1 is the effect allele, A2 is the alternative allele, Z is the Z score for the association statistics, and N is the sample size. 
+Same as SDPR, the summary statistics should have at least the following columns with the same name, where SNP is the marker name, A1 is the effect allele, A2 is the alternative allele, Z is the Z score for the association statistics, and N is the sample size. The GWASs generated from UK Biobank in the manuscript are available through [link](https://yaleedu-my.sharepoint.com/:f:/g/personal/chi_zhang_cz354_yale_edu/ElfhUtVAnjtCmvrFaIFNwbYBl7ueR-2FEqOAr3zcF9V7Eg?e=u8V2Fc)
 
 ```
 SNP     A1      A2      Z       N
