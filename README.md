@@ -74,4 +74,4 @@ There are two output files corresponding to the adjusted effect sizes for trait1
 
 ## Citation
 
-
+Zhang, Chi et al. “Joint Modeling of Effect Sizes for Two Correlated Traits: Characterizing Trait Properties to Enhance Polygenic Risk Prediction.” bioRxiv (2025): n. pag.
